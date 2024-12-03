@@ -5,6 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+    "homepage": "https://kalyan565.github.io/ReactEssentials/"
   },
   "dependencies": {
     "react": "^18.0.0",
